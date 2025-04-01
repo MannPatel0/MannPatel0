@@ -11,7 +11,7 @@
 <h3 align="left">I'm a Computer Science student passionate about Embeded Systems, full-stack development, and Database Management.</h3>
 
 <!-- <img  align ="right" padding="10" height="150px" width="150px" src="" /> -->
-<img align="right" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7cziks7c4dezyz8lkqs.png" width="200px" height="200px" style="padding: 10px;" />
+<img align="left" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7cziks7c4dezyz8lkqs.png" width="200px" height="200px" style="padding: 10px;" />
 
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
