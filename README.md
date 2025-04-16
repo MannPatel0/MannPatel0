@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Mann 👋 </h1>
+<h1 align="left"> Hey there, I'm Mann 👋 and I use Fedora btw </h1>
 
 <p align="left">
       <a href="mailto:mann.patel1@ucalgary.ca"><img alt="Gmail" src="https://img.shields.io/badge/-mann.patel1@ucalgary.ca-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mann.patel1@ucalgary.ca"></a>
@@ -9,10 +9,10 @@
 </p>
 
 
-<h3 align="left">I'm a Computer Science student passionate about full-stack development, Software Engineering, and I use Fedora btw</h3>
+<h3 align="left">I'm a Computer Science student passionate about full-stack development and Software Engineering </h3>
 
 <!-- <img  align ="right" padding="10" height="150px" width="150px" src="" /> -->
-<img align="left" src="./IMG_1953.jpg" height="250px" style="padding: 10px;" />
+<img align="left" src="./IMG_1953.jpg" height="450px" style="padding: 10px;" />
 
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
