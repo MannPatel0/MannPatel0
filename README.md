@@ -11,7 +11,7 @@
 <h3 align="left">I'm a Computer Science student passionate about full-stack development, Embeded Systems, and software Engineering.</h3>
 
 <!-- <img  align ="right" padding="10" height="150px" width="150px" src="" /> -->
-<img align="right" src="./IMG_1953.jpg" width="200px" height="200px" style="padding: 10px;" />
+<img align="left" src="./IMG_1953.jpg" height="250px" style="padding: 10px;" />
 
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
