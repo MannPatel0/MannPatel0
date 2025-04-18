@@ -1,12 +1,18 @@
 <h1 align="left"> Hey there, I'm Mann 👋 and I use Fedora btw </h1>
-
 <p align="left">
-      <a href="mailto:mann.patel1@ucalgary.ca"><img alt="Gmail" src="https://img.shields.io/badge/-mann.patel1@ucalgary.ca-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mann.patel1@ucalgary.ca"></a>
-<!--    <a href="https://leetcodepattern.onrender.com/"><img alt="Leetcode Patterns" src="https://img.shields.io/badge/-Leetcode_Patterns-orange?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcodepattern.onrender.com/"></a> -->
-   <a href="https://linkedin.com/in/patel-mann"><img alt="LinkedIn" src="https://img.shields.io/badge/-Mann_Patel-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mann-B-patel"></a>
-   <a href="https://mannpatel0.github.io"><img alt="My Portfolio Website" src="https://img.shields.io/badge/-My_Portfolio_Website-ff5722?style=flat-square&logo=Firefox&logoColor=white&link=https://mannpatel0.github.io"></a>
+  <a href="mailto:mann.patel1@ucalgary.ca">
+    <img alt="Gmail" src="https://img.shields.io/badge/-mann.patel1@ucalgary.ca-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mann.patel1@ucalgary.ca" height="30">
+  </a>
 
+  <a href="https://linkedin.com/in/patel-mann">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Mann_Patel-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mann-B-patel" height="30">
+  </a>
+
+  <a href="https://mannpatel0.github.io">
+    <img alt="My Portfolio Website" src="https://img.shields.io/badge/-My_Portfolio_Website-ff5722?style=flat-square&logo=Firefox&logoColor=white&link=https://mannpatel0.github.io" height="30">
+  </a>
 </p>
+
 
 
 <h3 align="left">I'm a Computer Science student passionate about full-stack development and Software Engineering </h3>
