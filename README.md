@@ -1,5 +1,6 @@
 <h1 align="left"> Hey there, I'm Mann 👋 and I use Fedora btw </h1>
 <p align="left">
+  <img align="left" src="./IMG_1953.jpg" height="450px" style="padding: 10px;" />
   <a href="mailto:mann.patel1@ucalgary.ca">
     <img alt="Gmail" src="https://img.shields.io/badge/-mann.patel1@ucalgary.ca-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mann.patel1@ucalgary.ca" height="30">
   </a>
@@ -13,7 +14,6 @@
   </a>
 </p>
 
-<img align="left" src="./IMG_1953.jpg" height="450px" style="padding: 10px;" />
 
 
 
