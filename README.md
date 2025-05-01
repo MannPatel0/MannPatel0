@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">I'm a Computer Science student passionate about full-stack development and Software Engineering </h3>
+<p align="left">I'm a Computer Science student passionate about full-stack development and Software Engineering </p>
 
 <!-- <img  align ="right" padding="10" height="150px" width="150px" src="" /> -->
 <img align="left" src="./IMG_1953.jpg" height="450px" style="padding: 10px;" />
