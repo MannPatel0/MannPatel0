@@ -1,4 +1,5 @@
-<h1 align="left"> Hey there, I'm Mann 👋 and I use Fedora btw </h1>
+<h1 align="left"> Hey there, I'm Mann 👋</h1>
+<p> </p>
 <p align="left">
   <img align="left" src="./IMG_1953.jpg" height="450px" style="padding: 10px;" />
   <a href="mailto:mann.patel1@ucalgary.ca">
